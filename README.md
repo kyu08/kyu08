@@ -4,7 +4,7 @@ I'm a software engineer who loves Go, Elm, Rust, Neovim and OSS.
 https://blog.kyu08.com/
 
 ## OSS Contributions
-https://github.com/pulls?q=is:pr+is:merged+author:kyu08+is:public+-user:kyu08+
+I've had over 100+ PRs merged into OSS projects. For more details, see: https://github.com/pulls?q=is:pr+is:merged+author:kyu08+is:public+-user:kyu08+.
 
 ## Stats
 <!-- [![](https://raw.githubusercontent.com/kyu08/kyu08/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
