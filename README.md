@@ -9,7 +9,10 @@ I've had over 100+ PRs merged into OSS projects. For more details, see: https://
 ## Stats
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=49891479" target="_blank" style="display: block" align="center">
-  <img alt="Dashboard stats of @kyu08" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=49891479&image_size=auto&color_scheme=dark" width="771" height="auto">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.png" width="771" height="auto">
+    <img alt="Dashboard stats of @kyu08" src="assets/stats-light.png" width="771" height="auto">
+  </picture>
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
